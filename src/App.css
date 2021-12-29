@@ -1,35 +1,3 @@
 .App {
   text-align: center;
 }
-
-.Container {
-  display: block;
-  margin: 0 auto;
-  border: #282c34;
-  border-style: groove;
-  background: linear-gradient(
-    109.6deg,
-    rgb(17, 151, 147) 11.2%,
-    rgb(154, 214, 212) 55.4%,
-    rgb(255, 233, 171) 100.2%
-  );
-  opacity: 90%;
-  font-family: monospace;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}

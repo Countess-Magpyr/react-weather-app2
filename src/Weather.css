@@ -1,0 +1,14 @@
+.Container {
+  display: block;
+  margin: 0 auto;
+  border: #716372;
+  border-style: groove;
+  background: linear-gradient(
+    109.6deg,
+    rgb(17, 151, 147) 11.2%,
+    rgb(154, 214, 212) 55.4%,
+    rgb(255, 233, 171) 100.2%
+  );
+  opacity: 90%;
+  font-family: monospace;
+}
